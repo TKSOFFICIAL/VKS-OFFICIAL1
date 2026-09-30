@@ -1,0 +1,6 @@
+{
+  "name": "VKS Wingo",
+  "description": "VKS Official Wingo 1M Multi-AI Predictor with 100-result pattern analysis and real-time push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
